@@ -9,3 +9,5 @@ and using the following command: javac *.java, this will contain all the necessa
   java com.test.neofonie.sur.{name of class without the .java extension}
 5. Alternatively, the files can easily be imported to an eclipse project and run by Eclipse Run As command, by right clicking
 on the requisite java file.
+6. Please note that for the third version, a new text file will be created as an output in the parent folder. The name of the 
+text file should be PrintedNumbersBasedUponUserInput.txt, in case you don't see it, please refresh the folder.

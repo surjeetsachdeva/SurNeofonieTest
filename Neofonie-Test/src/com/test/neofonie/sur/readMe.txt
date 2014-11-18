@@ -1,4 +1,4 @@
-1. The code can be easily compiled and using java 6
+1. The code can be easily compiled and run using java 6
 2. There are 3 java files:
   a. PrintNumbersSimpleImpl.java -- this is the solution for the first version of the assignment
   b. PrintNumbersInRangeFromUserInput -- this is the solution for the second version of the assignment
